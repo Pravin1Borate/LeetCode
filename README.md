@@ -57,4 +57,9 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
+| [0374-guess-number-higher-or-lower](https://github.com/Pravin1Borate/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Pravin1Borate/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
