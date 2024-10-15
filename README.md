@@ -42,15 +42,18 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
+| [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
 | ------- |
+| [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Binary Search
@@ -62,4 +65,8 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Pravin1Borate/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
