@@ -45,11 +45,13 @@ Solving Leet Code Problems
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,4 +71,8 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
+## Counting
+|  |
+| ------- |
+| [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
 <!---LeetCode Topics End-->
