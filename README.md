@@ -49,6 +49,7 @@ Solving Leet Code Problems
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Pravin1Borate/LeetCode/tree/master/0242-valid-anagram) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
@@ -75,4 +76,12 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Pravin1Borate/LeetCode/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Pravin1Borate/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
