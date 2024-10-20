@@ -84,4 +84,12 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Pravin1Borate/LeetCode/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
