@@ -81,6 +81,7 @@ Solving Leet Code Problems
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pravin1Borate/LeetCode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Pravin1Borate/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -109,4 +110,8 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pravin1Borate/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
