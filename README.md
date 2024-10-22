@@ -42,6 +42,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -64,6 +65,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/Pravin1Borate/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -105,6 +107,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
