@@ -18,6 +18,7 @@ class Solution:
         for i in vec:
             if i != val:
                 p.append(i)
+                
         if not p:
             return None
 
