@@ -47,6 +47,7 @@ Solving Leet Code Problems
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Pravin1Borate/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -136,4 +137,9 @@ Solving Leet Code Problems
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pravin1Borate/LeetCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
