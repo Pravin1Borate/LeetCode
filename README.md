@@ -7,6 +7,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Pravin1Borate/LeetCode/tree/master/0176-second-highest-salary) |
+| [0183-customers-who-never-order](https://github.com/Pravin1Borate/LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Pravin1Borate/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Pravin1Borate/LeetCode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pravin1Borate/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
