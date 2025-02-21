@@ -43,6 +43,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
@@ -143,4 +144,12 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
