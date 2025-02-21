@@ -152,4 +152,8 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
+## Math
+|  |
+| ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/Pravin1Borate/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 <!---LeetCode Topics End-->
