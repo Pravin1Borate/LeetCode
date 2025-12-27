@@ -47,6 +47,7 @@ Solving Leet Code Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Pravin1Borate/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Pravin1Borate/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
