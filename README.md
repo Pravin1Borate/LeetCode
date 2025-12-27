@@ -51,6 +51,7 @@ Solving Leet Code Problems
 | [0643-maximum-average-subarray-i](https://github.com/Pravin1Borate/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1319-unique-number-of-occurrences](https://github.com/Pravin1Borate/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pravin1Borate/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1929-concatenation-of-array](https://github.com/Pravin1Borate/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Pravin1Borate/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3324-split-the-array](https://github.com/Pravin1Borate/LeetCode/tree/master/3324-split-the-array) |
 ## Hash Table
@@ -156,6 +157,7 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Pravin1Borate/LeetCode/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
 | ------- |
