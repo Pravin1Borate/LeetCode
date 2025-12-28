@@ -45,6 +45,7 @@ Solving Leet Code Problems
 | [0035-search-insert-position](https://github.com/Pravin1Borate/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pravin1Borate/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Pravin1Borate/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -130,6 +131,7 @@ Solving Leet Code Problems
 | [0061-rotate-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Pravin1Borate/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Pravin1Borate/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -162,4 +164,5 @@ Solving Leet Code Problems
 |  |
 | ------- |
 | [0172-factorial-trailing-zeroes](https://github.com/Pravin1Borate/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Pravin1Borate/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
