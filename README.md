@@ -46,6 +46,7 @@ Solving Leet Code Problems
 | [0054-spiral-matrix](https://github.com/Pravin1Borate/LeetCode/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pravin1Borate/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Pravin1Borate/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0480-sliding-window-median](https://github.com/Pravin1Borate/LeetCode/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/Pravin1Borate/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@ Solving Leet Code Problems
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravin1Borate/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Pravin1Borate/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Pravin1Borate/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Pravin1Borate/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Pravin1Borate/LeetCode/tree/master/0908-middle-of-the-linked-list) |
