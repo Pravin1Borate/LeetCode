@@ -4,18 +4,10 @@ class Solution:
         Do not return anything, modify nums in-place instead.
         """
         n = len(nums)
-        temp = [0] * n
-        count = 0 
+        j = 0 
 
         for i in range(n):
             if nums[i] != 0:
-                temp[count] = nums[i]
-                count += 1
-
-        for i in range(count):
-            nums[i] = temp[i]
-
-        for i in range(count,n):
-            nums[i] = 0
-            
+                nums[i],nums[j] = nums[j],nums[i]
+                j += 1
         return nums
